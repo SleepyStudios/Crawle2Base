@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TallGrass
+  - WorldItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dirt
+  - Grass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Dirt
+    uniqueID: 2384100019
+    locked: 0
+  - name: Grass
+    uniqueID: 1032494835
+    locked: 0
+  - name: WorldItems
+    uniqueID: 3903606025
+    locked: 0
+  - name: Players
+    uniqueID: 2958215657
+    locked: 0
+  - name: WorldUI
+    uniqueID: 572980217
+    locked: 0
